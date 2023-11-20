@@ -7,11 +7,6 @@ import utils.Constants;
 
 public class HomePageTest extends BaseTest {
 
-//    Tema: verificare banner rosu (culoarea de background, si culoarea textului din banner)
-//    Fac un assert ca sunt 6 meniuri
-//    Fac separat 6 asserturi, cate unul pentru fiecare meniu, in care verific ca e displayed, ca textul
-//    e ce trebuie, si culoarea e alb
-//    Un singur test pentru toate. Nume: verify banner test
 
     @Test
     public void logInTest() {
